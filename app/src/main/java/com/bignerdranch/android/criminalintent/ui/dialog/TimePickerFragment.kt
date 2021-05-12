@@ -36,8 +36,6 @@ class TimePickerFragment : DialogFragment() {
       }
     }
 
-
-
     return TimePickerDialog(
       requireContext(),
       dateListener,
